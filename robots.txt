@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://otaepaivo.rolandkrinner.com/sitemap.xml
